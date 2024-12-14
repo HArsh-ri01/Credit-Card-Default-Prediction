@@ -58,7 +58,7 @@ sympy==1.12
 tenacity==8.2.3
 threadpoolctl==3.2.0
 torch==2.2.0
-tornado==6.4
+tornado==6.4.1
 traitlets==5.14.1
 typing_extensions==4.9.0
 tzdata==2023.3
